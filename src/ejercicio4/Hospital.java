@@ -10,5 +10,5 @@ package ejercicio4;
  * @author daw1
  */
 public class Hospital {
-    enum PuestosHospital {CELADOR, ENFERMERO}
+    enum PuestosHospital {ADMINISTRATIVO, CELADOR, ENFERMERO, MEDICO, DIRECTOR}
 }

@@ -10,5 +10,5 @@ package ejercicio4;
  * @author daw1
  */
 public class Musica {
-    enum NotasMusicales {DO, RE}
+    enum NotasMusicales {DO, RE, MI, FA, SOL, LA, SI}
 }

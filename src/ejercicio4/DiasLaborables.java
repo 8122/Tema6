@@ -6,5 +6,5 @@
 package ejercicio4;
 
 public enum DiasLaborables {
-    LUNES, MARTES
+    LUNES, MARTES, MIERCOLES, JUEVES, VIERNES
 }

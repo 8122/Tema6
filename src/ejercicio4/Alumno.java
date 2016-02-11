@@ -10,6 +10,6 @@ package ejercicio4;
  * @author daw1
  */
 public class Alumno {
-    enum CalificacionesAlumno {SUSPENDIDO, SUFICIENTE};
-    
+    enum CalificacionesAlumno {SUSPENDIDO, SUFICIENTE, BIEN, NOTABLE, SOBRESALIENTE,
+    MATRICULA_DE_HONOR};
 }

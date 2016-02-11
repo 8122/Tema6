@@ -10,5 +10,5 @@ package ejercicio4;
  * @author daw1
  */
 public class Seat {
-    enum Modelos {LEON, TOLEDO}
+    enum Modelos {LEON, TOLEDO, IBIZA, ALHAMBRA, MII}
 }
